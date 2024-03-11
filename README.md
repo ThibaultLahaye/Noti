@@ -1,9 +1,8 @@
 # Noti
 
 ## Introduction
-I find one of the more interesting applications of graphs to be social graphs. In this project I explored the gathering and mining of social media friendship relationships. 
-Due to the sentive nature of using automated programs on social media, the code for this project has been omitted. A python webcrawler was written 
-to gather the information.
+The exploration of social graphs is an interesting branch within graph theory, particularly in the context of online social networks. In this project I explored the gathering and mining of social media friendship relationships. 
+Due to the sentive nature of using automated programs on social media, the code for this project has been omitted.
 
 At first [Cytoscpe](https://cytoscape.org/) was used to create the graphs, though it started to struggle when the dataset
 reached around 20 000 people. Then I switched to [Gephi](https://gephi.org/).
